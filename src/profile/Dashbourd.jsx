@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import Navbar from "/src/Layout/Navbar.jsx"; // make sure path is correct
+import Navbar from "/src/Layout/Navbar.jsx"; 
 
 function Dashboard() {
   const navigate = useNavigate();
